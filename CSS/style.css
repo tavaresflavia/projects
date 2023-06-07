@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  background-image: linear-gradient(to right, #ffffff,  #bebdbd) ;
+  height: 70px;
+}
+
+.logo {
+  padding: 5px;
+  float: left;
+}
+
+.nav {
+  float: right;
+  padding: 5px;
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.nav li {
+  font-size: x-large;
+  display: inline-block;
+  padding: 10px 60px 10px;
+}
+
+.banner{
+  background-image: url(../img/banner.jpg);
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  text-align:end;
+  font-size: 50px;
+}
+
